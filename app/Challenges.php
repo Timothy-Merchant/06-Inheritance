@@ -11,8 +11,8 @@ class Challenges
         echo "\nChallenges\n";
 
         // load challenges
-        $this->spoon();
-        // $this->languages();
+        // $this->spoon();
+        $this->languages();
         // $this->greet();
 
         // $tricksy = new Tricksy();
